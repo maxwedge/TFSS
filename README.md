@@ -1,2 +1,2 @@
-# relativity-clock
-Exercise in porting old code to python for grins.
+# Usage
+Blah blah, woof woof.
