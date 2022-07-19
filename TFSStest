@@ -2,5 +2,5 @@
 use strict;
 use warnings;
 
-my $FastlyToken = "IdIhoSQKEjh-oCJPt9Tz3e9N8CqztCFb";
+my $FastlyToken = "just kidding";
 print $FastlyToken . "\n";
